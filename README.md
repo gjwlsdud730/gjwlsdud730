@@ -15,7 +15,7 @@
 <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/python-icon.svg">
   </p>
  <p align="center">
-🍱&nbsp&nbspFrawork
+🍱&nbsp&nbspFramwork
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://spring.io/img/spring.svg">
